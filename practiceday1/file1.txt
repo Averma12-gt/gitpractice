@@ -1,0 +1,16 @@
+# practiceday1
+
+This is my first Git practice session.
+
+## What I did:
+- Initialized a Git repository
+- Configured my username and email
+- Practiced adding files and checking status
+
+## Next Steps:
+- Learn about commits and pushing to GitHub
+- Work with branches and merges
+
+---
+By: Akash Verma
+
