@@ -14,3 +14,4 @@ This is my first Git practice session.
 ---
 By: Akash Verma
 new
+This line is just for practicing git reset.
